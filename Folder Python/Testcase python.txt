@@ -1,0 +1,48 @@
+TEST CASE 1
+
+INPUT:
+Kode        : SP001
+Nama        : Samsung A55
+Harga       : 5999000
+Merek       : Samsung
+Garansi     : 1 Tahun
+Daya        : 25
+RAM         : 8 GB
+Penyimpanan : 256 GB
+Kamera      : 50 MP
+
+OUTPUT:
+Kode        : SP001
+Nama        : Samsung A55
+Harga       : Rp5999000
+Merek       : Samsung
+Garansi     : 1 Tahun
+Daya        : 25 W
+RAM         : 8 GB
+Penyimpanan : 256 GB
+Kamera      : 50 MP
+
+
+TEST CASE 2
+
+INPUT:
+Kode        : SP002
+Nama        : iPhone 15
+Harga       : 12999000
+Merek       : Apple
+Garansi     : 1 Tahun
+Daya        : 20
+RAM         : 6 GB
+Penyimpanan : 128 GB
+Kamera      : 48 MP
+
+OUTPUT:
+Kode        : SP002
+Nama        : iPhone 15
+Harga       : Rp12999000
+Merek       : Apple
+Garansi     : 1 Tahun
+Daya        : 20 W
+RAM         : 6 GB
+Penyimpanan : 128 GB
+Kamera      : 48 MP
